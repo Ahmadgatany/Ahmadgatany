@@ -13,7 +13,7 @@
 
 ### 🛠️ Technologies & Tools
 
-<div align="center" style="display: flex; justify-content: center; gap: 10px;">
+<div left="center" style="display: flex; justify-content: center; gap: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" style="width: 35px; height: 35px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" style="width: 35px; height: 35px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" style="width: 35px; height: 35px;" />
