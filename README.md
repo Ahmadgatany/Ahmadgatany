@@ -33,12 +33,15 @@
 
 ---
 
-### 🚀 Featured Projects
-- 📌 [**News Ranker & Analyzer**](https://github.com/Ahmadgatany/News-Ranker-Analyzer) – FinBERT-based pipeline for ranking financial news  
-- 📌 [**Chest X-ray Pneumonia Detection API**](https://github.com/Ahmadgatany/chest-xray-pneumonia-api) – Deployed DL model via FastAPI  
-- 📌 [**IMDB Sentiment End2End**](https://github.com/Ahmadgatany/IMDB-Sentiment-End2End) – Complete NLP pipeline with Logistic, BiLSTM & DeBERTa + MLOps (DVC, MLflow, FastAPI, Docker)  
-- 📌 [**Digit Recognizer (TF vs PyTorch)**](https://www.kaggle.com/code/ahmedgaitani/digit-recognizer-code-dl-tf-vs-pt-99) – Comparative CNN models achieving 99% accuracy  
-- 📌 [**SMS Spam Classification**](https://www.kaggle.com/code/ahmedgaitani/sms-spam-nlp-code/notebook) – Classic NLP achieving 98% accuracy  
+### 🧩 My Approach
+
+🔍 Research-driven – I start with understanding the problem domain and exploring SOTA (state-of-the-art) methods.
+
+⚙️ Experimentation – I believe in fast prototyping, A/B testing, and iterating to find the best solution.
+
+🛠️ End-to-End Ownership – From data preprocessing → model training → deployment → monitoring.
+
+🌐 Sharing Knowledge – Open-source contributions, Kaggle notebooks, and technical writing.
 
 ---
 
