@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ahmed Gaitani</h1>
-<h3 align="center">AI & Machine Learning Engineer | Kaggle Grandmaster | MLOps Enthusiast 🚀</h3>
+<h3 align="center">AI & Machine Learning Engineer from Egypt 🇪🇬</h3>
+
+<div align="center">
+  <br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI+%26+ML+Engineer+%F0%9F%A7%A0;Data+Scientist+%F0%9F%93%8A;NLP+%26+LLM+Practitioner+%F0%9F%96%A5%EF%B8%8F;MLOps+Enthusiast+%F0%9F%9A%80;Open+Source+Contributor+%E2%9C%A8" alt="Typing SVG" />
+</div>
 
 ---
 
