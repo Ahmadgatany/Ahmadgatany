@@ -52,7 +52,7 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ahmadgatany&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ahmadgatany&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true" width="45%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmadgatany&layout=compact&theme=tokyonight&hide_border=false" width="45%"/>
 </p>
 
