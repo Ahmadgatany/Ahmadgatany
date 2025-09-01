@@ -50,14 +50,10 @@
 
 ---
 
-### 📊 GitHub & Kaggle Stats
+### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ahmadgatany&show_icons=true&theme=tokyonight&hide_border=false" width="45%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmadgatany&layout=compact&theme=tokyonight&hide_border=false" width="45%"/>
-</p>
-
-<p align="center">
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/simple/ahmedgaitani" alt="Kaggle" />
 </p>
 
 ---
