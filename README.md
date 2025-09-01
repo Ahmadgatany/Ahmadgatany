@@ -4,33 +4,32 @@
 ---
 
 - 🧠 Passionate about **AI, Machine Learning, and NLP**
-- 🧪 Built 20+ ML projects in **Computer Vision, NLP, and Predictive Modeling**
-- 📊 Top 6% in Kaggle Competitions — Focused on solving real-world problems
-- 🚀 Deployed models with **FastAPI, Docker, and GitHub Actions**
-- 📂 Sharing my work on GitHub & Kaggle regularly
+- 🧪 Built **20+ ML projects** in **Computer Vision, NLP, and Predictive Modeling**
+- 📊 Ranked in the **Top 6% on Kaggle Competitions** — solving real-world ML problems
+- 🚀 Experienced in deploying models using **FastAPI, Docker, and GitHub Actions**
+- 📂 Actively sharing my work on **GitHub & Kaggle**
 
 ---
 
 ### 🛠️ Technologies & Tools
 
-<div left="center" style="display: flex; justify-content: center; gap: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" style="width: 35px; height: 35px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" style="width: 35px; height: 35px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" style="width: 35px; height: 35px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" style="width: 35px; height: 35px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" style="width: 35px; height: 35px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" style="width: 35px; height: 35px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" style="width: 35px; height: 35px;" />
-</div>
-
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+</p>
 
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ahmadgatany&show_icons=true&theme=github_dark&hide_border=false" width="45%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmadgatany&layout=compact&theme=github_dark&hide_border=false" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ahmadgatany&show_icons=true&theme=github_dark&hide_border=false" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmadgatany&layout=compact&theme=github_dark&hide_border=false" width="48%"/>
 </p>
 
 ---
