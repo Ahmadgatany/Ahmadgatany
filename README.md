@@ -2,7 +2,7 @@
 ### AI & Machine Learning Engineer | Kaggle Grandmaster (Top 60 Worldwide) 🏆
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Kaggle+Grandmaster+🏅;LLM+%26+Agentic+AI+Specialist+🤖;GraphRAG+%26+Vector+DB+Expert+🕸️;Automation+%26+MLOps+Engineer+⚙️" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Kaggle+Grandmaster+🏆;LLM+and+Agentic+AI+Specialist;GraphRAG+and+Vector+DB+Expert;Automation+and+MLOps+Engineer" alt="Typing SVG" />
 </div>
 
 ---
