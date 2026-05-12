@@ -52,12 +52,14 @@ I am a **Machine Learning Engineer** and **Postgraduate CS Student** at Ain Sham
 
 ---
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmadgatany&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800" alt="Ahmed's GitHub Stats" />
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Kaggle+Grandmaster+🏆;LLM+and+Agentic+AI+Specialist;GraphRAG+and+Vector+DB+Expert;Automation+and+MLOps+Engineer" />
+</div>
 
+### 📊 My GitHub Journey
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadgatany&layout=compact&theme=tokyonight&cache_seconds=1800" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmadgatany&show_icons=true&theme=tokyonight&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadgatany&layout=compact&theme=tokyonight" width="42%" />
 </p>
 ---
 
