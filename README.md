@@ -49,13 +49,14 @@ I am a **Machine Learning Engineer** and **Postgraduate CS Student** at Ain Sham
 *   **Expertise:** SOTA model implementation, EDA, and complex data pipeline optimization.
 
 ---
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Kaggle+Grandmaster+🏆;LLM+and+Agentic+AI+Specialist;GraphRAG+and+Vector+DB+Expert;Automation+and+MLOps+Engineer" alt="Typing SVG" />
+</div>
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ahmadgatany&show_icons=true&theme=tokyonight&count_private=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmadgatany&layout=compact&theme=tokyonight" width="45%"/>
-</p>
+![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmadgatany&show_icons=true&theme=tokyonight&count_private=true)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmadgatany&layout=compact&theme=tokyonight)
 ---
 
 ### 📫 Let's Connect
