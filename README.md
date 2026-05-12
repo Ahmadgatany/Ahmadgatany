@@ -1,81 +1,69 @@
-<h1 align="center">Hi 👋, I'm Ahmed Gaitani</h1>
-<h3 align="center">AI & Machine Learning Engineer from Egypt 🇪🇬</h3>
+# 🚀 Hi, I'm Ahmed Gaitani
+### AI & Machine Learning Engineer | Kaggle Grandmaster (Top 60 Worldwide) 🏆
 
 <div align="center">
-  <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI+%26+ML+Engineer+%F0%9F%A7%A0;Data+Scientist+%F0%9F%93%8A;NLP+%26+LLM+Practitioner+%F0%9F%96%A5%EF%B8%8F;MLOps+Enthusiast+%F0%9F%9A%80;Open+Source+Contributor+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Kaggle+Grandmaster+🏅;LLM+%26+Agentic+AI+Specialist+🤖;GraphRAG+%26+Vector+DB+Expert+🕸️;Automation+%26+MLOps+Engineer+⚙️" alt="Typing SVG" />
 </div>
 
 ---
 
 ### 👨‍💻 About Me
-- 🔹 Machine Learning Engineer specialized in **NLP, LLMs, and End-to-End ML Systems**  
-- 🔹 Experienced in building **scalable ML pipelines**, real-time inference APIs, and cloud deployment  
-- 🔹 **Kaggle Grandmaster** (Top 100 in Notebooks, 15+ Gold Medals 🏅)  
-- 🔹 Passionate about **MLOps, LLMs, and deploying AI into production**  
-- 🔹 Hands-on with **FastAPI, Docker, MLflow, DVC, GitHub Actions (CI/CD)**  
+I am a **Machine Learning Engineer** and **Postgraduate CS Student** at Ain Shams University, specializing in high-performance AI systems. My expertise lies in building production-ready **LLM architectures**, **GraphRAG systems**, and **Agentic AI workflows**.
+
+- 🌍 **Kaggle Grandmaster:** Ranked within the **Top 60 globally** (Notebooks), with 15+ Gold Medals.
+- 🛠️ **Current Focus:** Architecting Agentic AI systems and optimizing Retrieval-Augmented Generation (RAG) using Graph Databases.
+- ⚡ **Professional Background:** Experience in building scalable AI solutions at **Invisible Technologies** and delivering end-to-end ML pipelines.
+- 🎓 **Academic:** Researching Distributed Systems and Cache Coherence protocols.
+
+---
+
+### 🌟 Top Achievements & Projects
+
+#### 🤖 [Drug Discovery AI Agent](https://github.com/Ahmadgatany)
+*Architected a specialized AI agent using **GraphRAG (Neo4j)** and **Llama 3.3** to analyze pharmaceutical research and scientific publications. Implemented complex knowledge retrieval from unstructured bio-medical data.*
+
+#### 📸 [Multimodal-RAG-Core](https://github.com/Ahmadgatany/Multimodal-RAG-Core)
+*Developed a hybrid system utilizing **Qwen2.5-VL** to query complex PDFs and images. Built with a **FastAPI** backend and **Streamlit** frontend for seamless multimodal interaction.*
+
+#### 📊 [Financial Sentiment Pipeline](https://github.com/Ahmadgatany)
+*An end-to-end NLP pipeline for financial news analysis using **MLflow** for tracking and **DVC** for data versioning, ensuring full reproducibility in production.*
 
 ---
 
 ### 🛠️ Tech Stack
-**Languages & Core**  
-`Python` · `SQL`  
 
-**ML/DL Frameworks**  
-`TensorFlow` · `PyTorch` · `scikit-learn` · `XGBoost` · `LightGBM`  
-
-**NLP & LLMs**  
-`spaCy` · `NLTK` · `Transformers` (BERT, FinBERT, DeBERTa, Sentence Transformers) · `Prompt Engineering`  
-
-**MLOps & Deployment**  
-`FastAPI` · `Docker` · `MLflow` · `DVC` · `GitHub Actions`  
-
-**Data & Visualization**  
-`Pandas` · `NumPy` · `Matplotlib` · `Seaborn`  
-
-**Other Domains**  
-`Computer Vision (CNNs, Object Detection)` · `Feature Engineering`  
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **LLMs & Generative AI** | Llama, Qwen, Mistral, LangChain, Agentic AI, Prompt Engineering |
+| **Vector & Graph DBs** | Neo4j, Pinecone, ChromaDB, FAISS |
+| **Machine Learning** | PyTorch, TensorFlow, Scikit-learn, XGBoost, LightGBM |
+| **MLOps & DevOps** | Docker, MLflow, DVC, GitHub Actions (CI/CD), FastAPI |
+| **Automation** | n8n, Microsoft Power Automate |
+| **Data Science** | Pandas, NumPy, Matplotlib, Seaborn, Feature Engineering |
 
 ---
 
-### 🧩 My Approach
-
-🔍 Research-driven – I start with understanding the problem domain and exploring SOTA (state-of-the-art) methods.
-
-⚙️ Experimentation – I believe in fast prototyping, A/B testing, and iterating to find the best solution.
-
-🛠️ End-to-End Ownership – From data preprocessing → model training → deployment → monitoring.
-
-🌐 Sharing Knowledge – Open-source contributions, Kaggle notebooks, and technical writing.
+### 🏆 Kaggle Recognition
+*   **Rank:** Global Top 60
+*   **Tier:** Grandmaster (Notebooks)
+*   **Expertise:** SOTA model implementation, EDA, and complex data pipeline optimization.
 
 ---
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ahmadgatany&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true" width="45%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmadgatany&layout=compact&theme=tokyonight&hide_border=false" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ahmadgatany&show_icons=true&theme=tokyonight&count_private=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmadgatany&layout=compact&theme=tokyonight" width="45%"/>
 </p>
 
 ---
 
-### 🔗 Connect with Me
-<p align="center">
-  <a href="mailto:bargahmed77@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/ahmedgaitani/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://kaggle.com/ahmedgaitani">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Ahmadgatany">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+### 📫 Let's Connect
+<p align="left">
+<a href="https://www.linkedin.com/in/ahmedgaitani/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://kaggle.com/ahmedgaitani"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
+<a href="mailto:bargahmed77@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
-
-<p align="center">
-  🌟 Always Learning • Always Building • Always Sharing 🌟
-</p>
+<p align="center"><i>"Building the future of automation through intelligent agents."</i></p>
